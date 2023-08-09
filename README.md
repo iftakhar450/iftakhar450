@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Iftakhar Ahmed</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakhar450&label=Profile%20views&color=0e75b6&style=flat" alt="iftakhar450" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftakhar450" alt="iftakhar450" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **Nextjs,React Natice**
 
 - 💬 Ask me about **React, Angular, Nodejs**
@@ -18,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftakhar450&show_icons=true&locale=en&layout=compact" alt="iftakhar450" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftakhar450&show_icons=true&locale=en" alt="iftakhar450" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftakhar450&" alt="iftakhar450" /></p>
