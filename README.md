@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Iftakhar Ahmed</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtthdLuIGpO4jobk3Z_4iim0kjzI5iDeiRsw&usqp=CAU" />
 
 - 🌱 I’m currently learning **Nextjs,React Natice**
 
