@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtthdLuIGpO4jobk3Z_4iim0kjzI5iDeiRsw&usqp=CAU" />
 
-- 🌱 I’m currently learning **Nextjs,React Natice**
+- 🌱 I’m currently learning **Nextjs,React Native**
 
 - 💬 Ask me about **React, Angular, Nodejs**
 
